@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.mp4
 .vscode/
+
+# Videos von Homework3 gehören ins Repo (eigenständiger Stand für andere Geräte)
+!Homework3/**/*.mp4
